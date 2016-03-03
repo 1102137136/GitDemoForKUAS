@@ -11,6 +11,7 @@ namespace WindowsFormsApplication1
         public static void Main()
         {
             System.Console.WriteLine("Hello,World~");
+            System.Console.WriteLine("apple");
             System.Console.ReadLine();
         }
     }
